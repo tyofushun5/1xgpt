@@ -1,0 +1,2 @@
+docker run --gpus all -it --shm-size=16g -v "C:\Users\shuny\PycharmProjects\1xgpt\data:/workspace/1xgpt/data" 1xgpt bash
+
